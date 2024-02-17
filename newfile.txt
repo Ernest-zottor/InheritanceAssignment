@@ -1,2 +1,3 @@
 This is a new file from vs code
+This should create a conflict
 The second line is from vim editor.
