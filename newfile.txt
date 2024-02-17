@@ -4,3 +4,5 @@ The second line is from vim editor.
 This is from master branch. Trying to create conflict
 
 Trying to create conflict through adding a file to the main branch.
+
+I will be merging from the commandline
