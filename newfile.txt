@@ -1,3 +1,5 @@
 This is a new file from vs code
 This should create a conflict
 The second line is from vim editor.
+
+Trying to create conflict through adding a file to the main branch.
