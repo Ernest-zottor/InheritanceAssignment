@@ -1,0 +1,2 @@
+This is a new file from vs code
+The second line is from vim editor.
