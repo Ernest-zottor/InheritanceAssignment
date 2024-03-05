@@ -1,1 +1,1 @@
-This is a new file to demonstrate my experience with git branch, checkout and merge
+This is a new file to demonstrate git.
