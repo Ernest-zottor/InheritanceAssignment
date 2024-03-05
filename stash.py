@@ -1,0 +1,1 @@
+print("Stash is cool")
