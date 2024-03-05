@@ -1,2 +1,2 @@
-This is a new file to demonstrate my experience with git branch, checkout and merge
+This is a new file to demonstrate git.
 I'm trying to see whether I could create a conflict
